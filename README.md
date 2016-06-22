@@ -1,2 +1,4 @@
-# tooltip
-Pure OO JavaScript tooltip component
+# modal
+Pure OO JavaScript modal component
+
+Demo: http://codepen.io/redahas/pen/aZBmBq
